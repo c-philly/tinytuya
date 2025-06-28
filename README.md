@@ -112,9 +112,9 @@ import tinytuya
 
 # Connect to Device
 d = tinytuya.OutletDevice(
-    dev_id='DEVICE_ID_HERE',
-    address='IP_ADDRESS_HERE',      # Or set to 'Auto' to auto-discover IP address
-    local_key='LOCAL_KEY_HERE', 
+    dev_id='ebec12b4aa25b39f25k0mr',
+    address='auto',      # Or set to 'Auto' to auto-discover IP address
+    local_key="7'5bWXev&LJ?i'8f", 
     version=3.3)
 
 # Get Status
