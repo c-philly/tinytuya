@@ -18,7 +18,7 @@ log.setLevel(level=logging.DEBUG)  # Debug hack!
 
 import tinytuya
 
-LOCAL_KEY = '0123456789abcdef'
+LOCAL_KEY = "7'5bWXev&LJ?i'8f"
 
 mock_byte_encoding = 'utf-8'
 
